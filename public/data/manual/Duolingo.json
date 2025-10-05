@@ -1,0 +1,67 @@
+{
+  "name": "Duolingo",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Duolingo_logo_%282019%29.svg/langfr-1920px-Duolingo_logo_%282019%29.svg.png",
+  "nationality": "Américaine",
+  "country_name": "United States",
+  "country_code": "us",
+  "belongs_to_group": false,
+  "group_name": "",
+  "permissions": "",
+  "contact_mail_export": "privacy@duolingo.com",
+  "easy_access_data": "5/5",
+  "need_id_card": false,
+  "details_required_documents": "être connecté",
+  "data_access_via_postal": false,
+  "data_access_via_form": "https://drive-thru.duolingo.com/",
+  "data_access_via_email": true,
+  "response_format": "",
+  "example_data_export": [
+    {
+      "url": "",
+      "type": "",
+      "description": "",
+      "date": ""
+    }
+  ],
+  "example_form_export": [
+    {
+      "url": "",
+      "type": "",
+      "description": "",
+      "date": ""
+    },
+    {
+      "url": "",
+      "type": "",
+      "description": "",
+      "date": ""
+    }
+  ],
+  "message_exchange": [
+    {
+      "url": "",
+      "type": "",
+      "description": "",
+        "date": ""
+    }
+  ],
+  "url_export": "",
+  "address_export": "",
+  "sanctioned_by_cnil": false,
+  "sanction_details": "",  
+"data_transfer_policy": true,
+  "privacy_policy_quote": "Duolingo est basé aux États-Unis et traite les données aux États-Unis, ce qui peut ne pas garantir un niveau de protection des données équivalent à celui de votre juridiction d'origine. Duolingo peut transférer les données d'utilisateurs résidant hors des États-Unis vers les États-Unis.",  
+  "transfer_destination_countries": "Etats-Unis",
+  "outside_eu_storage": true,
+  "tosdr": "",
+  "exodus": "",
+  "comments": "",
+  "created_at": "2025-05-25",
+  "created_by": "Unlock My Data Team",
+  "updated_at": "2025-10-05",
+  "updated_by": "Charlotte",
+  "app": {
+    "name": "Duolingo : Cours de Langue",
+    "link": "https://play.google.com/store/apps/dev?id=6957685454452609502"
+  }
+}
